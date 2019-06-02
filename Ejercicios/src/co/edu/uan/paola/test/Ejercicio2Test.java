@@ -1,11 +1,13 @@
 /**
  * 
  */
-package co.edu.uan.paola;
+package co.edu.uan.paola.test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.jupiter.api.Test;
+
+import co.edu.uan.paola.Ejercicio2;
 
 /**
  * @author Paola Rincón
